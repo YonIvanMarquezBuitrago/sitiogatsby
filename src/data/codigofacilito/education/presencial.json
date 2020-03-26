@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Académica",
+    "description": "Formación Académica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name": "Universidad Nacional de Colombia",
+            "degree": "Ingeniero Mecánico",
+            "score": "100"
+        },
+        {
+            "name": "Universidad Nacional Abierta y a Distancia",
+            "degree": "Ingeniero  de Sistemas",
+            "score": "100"
+        }
+    ]
+}

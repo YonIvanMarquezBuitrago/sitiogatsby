@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Formación Académica",
+    "description": "Formación Académica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name": "Sena",
+            "degree": "Competencias en Sistemas",
+            "score": "100"
+        }
+    ]
+}
